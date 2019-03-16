@@ -16,4 +16,4 @@ In netlink:
 gcc log_to_server.c -o log_to_server
 sudo ./log_to_server <ip> <port>
   
-Thanks for the direction and help from Mr. Lu Bingxian, who directed me in my last two year as an undergraduate student and taught me precious experience.
+Thanks for the direction and help from Mr. Lu Bingxian, who directed me in my last two year in undergraduate study and taught me precious experience.
