@@ -7,8 +7,10 @@ For more detailed information, check https://github.com/lubingxian/Realtime-proc
 
 In matlab:
 run read_bf_socket using Matlab
+
 or in Python
 run read_bf_file.py using Python
+
 
 In netlink:
 gcc log_to_server.c -o log_to_server
