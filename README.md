@@ -1,5 +1,5 @@
 # The-Real-time-Visualization-System-Based-on-CSI
-The project I did on my undergraduate thesis
+This project is designed for showing realtime curves that can show the change of CSI signals.
 
 This project is designed as a plug-in of CSI-Tool, which means you need to include all the files of CSI-Tool(https://github.com/dhalperi/linux-80211n-csitool-supplementary) to see how the project work.
 
@@ -17,4 +17,4 @@ gcc log_to_server.c -o log_to_server
 
 sudo ./log_to_server <ip> <port>
   
-Thanks for the direction and help from Mr. Lu Bingxian, who directed me in my last two year in undergraduate study and taught me precious experience.
+Thanks for the direction and help from Mr. Lu Bingxian, who directed me in my last two year in undergraduate study and led me to acquire precious experience.
